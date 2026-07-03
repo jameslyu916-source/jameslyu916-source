@@ -27,8 +27,21 @@ Features:
 
 Tech Stack:
 
-Python • FastAPI • SQLAlchemy • SQLite • JavaScript • Tailwind CSS
+Python · FastAPI · SQLAlchemy · SQLite · JavaScript · Tailwind CSS
+
+### J× — Photography Portfolio
+
+A personal photography website with a custom admin CMS and fullscreen photo viewer. [jtimes-visual.com](https://jtimes-visual.com)
+
+- Browser-based admin panel with drag-and-drop upload and batch editing
+- Custom fullscreen photo viewer with blurred ambient background
+- Dual-rail auto-scrolling photo wall on the homepage
+- Bilingual (English & Traditional Chinese)
+
+Tech Stack:
+
+Astro v5 · Tailwind CSS v3 · Sharp · Playwright
 
 ## Languages
 
-Mandarin • Cantonese • English • Japanese
+Mandarin · Cantonese · English · Japanese
