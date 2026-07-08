@@ -1,40 +1,33 @@
 # Hi, I'm Yi 👋
 
-Financial Technology & Artificial Intelligence student at The Hong Kong Polytechnic University.
+FinTech & AI student at The Hong Kong Polytechnic University.
 
-I'm interested in building practical applications in AI, FinTech and payment systems.
-
-## Current Interests
-
-- Artificial Intelligence
-- Financial Technology
-- Payment Infrastructure
-- Full-stack Development
+Building practical systems at the intersection of FinTech, AI, and full-stack development.
 
 ## Featured Project
 
-### Agent Trade Manager
+### [Agent Trade Manager](https://github.com/jameslyu916-source/agent-trade-manager)
 
-A business management platform developed during my internship.
+A multi-platform FX transaction management system built for currency exchange brokerages.
 
 Features:
 
-- Telegram & WhatsApp bot integration
-- Automated transaction monitoring
-- Foreign exchange tracking
-- Profit calculation & reporting
-- AI-powered information extraction
+- Parses payment messages and customer orders from group chats in real time
+- Resolves multi-step exchange rates and calculates spread-based profit
+- AI-powered information extraction as fallback for unstructured messages
+- Web dashboard for transactions, customer verification, and risk monitoring
 
 Tech Stack:
 
-Python · FastAPI · SQLAlchemy · SQLite · JavaScript · Tailwind CSS
+Python · FastAPI · SQLAlchemy · Node.js · Tailwind CSS · scikit-learn
 
 ### J× — Photography Portfolio
 
 A personal photography website with a custom admin CMS and fullscreen photo viewer. [jtimes-visual.com](https://jtimes-visual.com)
 
-- Browser-based admin panel with drag-and-drop upload and batch editing
-- Custom fullscreen photo viewer with blurred ambient background
+- Browser-based admin panel with drag-and-drop upload and auto-compression
+- Custom fullscreen viewer with gesture navigation and location line-art maps
+- Masonry gallery with series-based filtering
 - Dual-rail auto-scrolling photo wall on the homepage
 - Bilingual (English & Traditional Chinese)
 
