@@ -21,9 +21,11 @@ Tech Stack:
 
 Python · FastAPI · SQLAlchemy · Node.js · Tailwind CSS · scikit-learn
 
-### J× — Photography Portfolio
+### [J× — Photography Portfolio](https://github.com/jameslyu916-source/photo-portfolio)
 
-A personal photography website with a custom admin CMS and fullscreen photo viewer. [jtimes-visual.com](https://jtimes-visual.com)
+A personal photography portfolio website with a custom admin CMS. [jtimes-visual.com](https://jtimes-visual.com)
+
+Features:
 
 - Browser-based admin panel with drag-and-drop upload, auto-compression, and batch metadata editing
 - Masonry photo gallery with series-based filtering
