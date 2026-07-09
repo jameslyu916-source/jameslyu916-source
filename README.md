@@ -25,11 +25,10 @@ Python · FastAPI · SQLAlchemy · Node.js · Tailwind CSS · scikit-learn
 
 A personal photography website with a custom admin CMS and fullscreen photo viewer. [jtimes-visual.com](https://jtimes-visual.com)
 
-- Browser-based admin panel with drag-and-drop upload and auto-compression
-- Custom fullscreen viewer with gesture navigation and location line-art maps
-- Masonry gallery with series-based filtering
-- Dual-rail auto-scrolling photo wall on the homepage
-- Bilingual (English & Traditional Chinese)
+- Browser-based admin panel with drag-and-drop upload, auto-compression, and batch metadata editing
+- Masonry photo gallery with series-based filtering
+- Custom fullscreen viewer with location maps generated from real OpenStreetMap coastline data
+- Bilingual UI and content (English & Traditional Chinese)
 
 Tech Stack:
 
